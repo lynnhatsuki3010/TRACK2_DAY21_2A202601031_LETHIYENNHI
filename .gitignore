@@ -1,5 +1,7 @@
 mlflow.db
+mlflow_ui.log
 mlartifacts/
+mlruns/
 models/
 outputs/
 data/train_phase1.csv
